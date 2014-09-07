@@ -2,3 +2,12 @@
 rild.libargs=-d /dev/smd0
 rild.libpath=/system/lib/libsec-ril.so
 ro.ril.telephony.mqanelements=6
+ro.telephony.ril_class=SamsungQualcommRIL
+
+# One Hardware Info
+ro.device.chipset=Qualcomm MSM8974AC Snapdragon 801
+ro.device.cpu=Quad-core 2.5 GHz Krait 400
+ro.device.gpu=Adreno 330
+ro.device.rear_cam=16 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=1080x1920
